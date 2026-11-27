@@ -1,14 +1,21 @@
-Hi there 👋
-Welcome to [MagicSword.io](https://magicsword.io) – slicing through cyber threats with open-source tools and a strong community! Our mission is to protect businesses from online threats using advanced data analysis and cutting-edge security solutions.
+# MagicSword
 
-🙋‍♀️ What are we all about?
-At MagicSword, we build open-source security tools that help thousands of users safeguard their systems against evolving internet threats. Our projects are designed to help the cybersecurity community and organizations create a safer internet.
+MagicSword builds open-source security tools and application control software. We track the legitimate tools and vulnerable drivers attackers abuse so defenders can spot them and decide what can run on their endpoints.
 
-🌈 How can you get involved?
-We encourage contributions from all skill levels! Whether it's bug fixes, feature requests, or new ideas, we welcome you to collaborate with us. 
+- **[Request Slack access](https://www.magicsword.io/slack-community)** to get biweekly Intel Drops, compare findings with other defenders, and talk with the MagicSword team.
+- **[Start free with MagicSword](https://www.magicsword.io/dashboard/signin/signup)** to try application control on up to 100 endpoints. Use audit mode to see what your policy would block before enforcing it. No credit card required.
 
-👩‍💻 Where can you find our docs?
-Visit our official site: [magicsword.io](https://magicsword.io). You’ll also find links to our projects and how you can get started.
+Approved Slack members can request a code to unlock Attacker Tools intelligence feeds in their free MagicSword account.
 
-🍿 Fun fact:
-Our team thrives on a good mix of coffee, coding, and community! 🥷
+## Explore our projects
+
+- [LOLDrivers](https://github.com/magicsword-io/LOLDrivers) — Look up known vulnerable and malicious Windows drivers.
+- [LOLRMM](https://github.com/magicsword-io/LOLRMM) — Identify remote monitoring and management tools and the artifacts they leave behind.
+- [LOLSkills](https://lolskills.io) — Review AI agent skills for risky behavior before installing them.
+- [Sigconverter](https://github.com/magicsword-io/sigconverter.io) — Convert Sigma rules for your detection platform.
+
+[Browse all community projects](https://www.magicsword.io/projects).
+
+## Contribute
+
+Found a vulnerable driver, an abused tool, or a better detection? Open an issue in the relevant project and include what you found and any public references. [See how to contribute](https://www.magicsword.io/community/contribute).
