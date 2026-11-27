@@ -1,9 +1,12 @@
 # MagicSword
 
+<img src="./assets/profile-banner.jpg" alt="A green sword and shield amid a network of connected points" width="1440">
+
 MagicSword builds open-source security tools and application control software. We track the legitimate tools and vulnerable drivers attackers abuse so defenders can spot them and decide what can run on their endpoints.
 
-- **[Request Slack access](https://www.magicsword.io/slack-community)** to get Intel Drops, compare findings with other defenders, and talk with the MagicSword team.
-- **[Start free with MagicSword](https://www.magicsword.io/dashboard/signin/signup)** to try application control on up to 100 endpoints. Use audit mode to see what your policy would block before enforcing it. No credit card required.
+| [Request Slack access](https://www.magicsword.io/slack-community) | [Start free with MagicSword](https://www.magicsword.io/dashboard/signin/signup) |
+| :--- | :--- |
+| Get Intel Drops, compare findings with other defenders, and talk with the MagicSword team. | Use application control on up to **100 endpoints**. Start in audit mode. No credit card required. |
 
 Approved Slack members can request a code to unlock Attacker Tools intelligence feeds in their free MagicSword account.
 
