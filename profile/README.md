@@ -1,6 +1,9 @@
-# MagicSword
-
-<img src="./assets/profile-banner.jpg" alt="A green sword and shield amid a network of connected points" width="1440">
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
+    <img src="./assets/logo-light.svg" alt="MagicSword" width="250" height="100">
+  </picture>
+</h1>
 
 MagicSword builds open-source security tools and application control software. We track the legitimate tools and vulnerable drivers attackers abuse so defenders can spot them and decide what can run on their endpoints.
 
